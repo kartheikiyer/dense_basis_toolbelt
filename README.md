@@ -4,7 +4,5 @@ This is a place for experimental addons to the `dense_basis` SED fitting code to
 
 This includes
 - Sampling methods (e.g., MCMC, Nested Sampling and more)
-- Optimization techinques (e.g., a NN-backend or NDinterpolation coupled to the inference tools)
-- More visualization tools
-
-
+- Optimization techinques (e.g., efficient parallelization, a NN+PCA backend (similar to [Speculator; Alsing et al. 2019](https://arxiv.org/abs/1911.11778)) or NDinterpolation coupled to the inference tools)
+- More visualization/interpretation tools
